@@ -1,12 +1,6 @@
 # cPanel-Nulled-Unlimited-Download
 cPanel Nulled Unlimited: The Truth
 
-Here’s the full code for the GitHub README.md file, including the complete sections like the one you mentioned:
-
-markdown
-Copy code
-# cPanel Nulled Unlimited: The Truth
-
 There’s **no such thing as a legitimate "cPanel Nulled"** version. Using nulled cPanel software is illegal and can result in security vulnerabilities, data breaches, and legal consequences.
 
 Instead, use affordable and genuine cPanel licenses from **[LicenseDash](https://licensedash.com)**, starting at just **$4.99 per month**.
